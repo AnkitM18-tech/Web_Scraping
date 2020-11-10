@@ -1,0 +1,67 @@
+2020-10-31 23:48:18 [scrapy] DEBUG: Crawled (404) <GET http://books.toscrape.com/robots.txt> (referer: None)
+2020-10-31 23:48:19 [scrapy] DEBUG: Crawled (200) <GET http://books.toscrape.com/catalogue/page-1.html> (referer: None)
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'A Light in the Attic', 'Price': '£51.77', 'Stock': 'I', 'Star': 3}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Tipping the Velvet', 'Price': '£53.74', 'Stock': 'I', 'Star': 1}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Soumission', 'Price': '£50.10', 'Stock': 'I', 'Star': 1}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Sharp Objects', 'Price': '£47.82', 'Stock': 'I', 'Star': 4}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Sapiens: A Brief History of Humankind', 'Price': '£54.23', 'Stock': 'I', 'Star': 5}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'The Requiem Red', 'Price': '£22.65', 'Stock': 'I', 'Star': 1}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'The Dirty Little Secrets of Getting Your Dream Job', 'Price': '£33.34', 'Stock': 'I', 'Star': 4}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull', 'Price': '£17.93', 'Stock': 'I', 'Star': 3}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics', 'Price': '£22.60', 'Stock': 'I', 'Star': 4}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'The Black Maria', 'Price': '£52.15', 'Stock': 'I', 'Star': 1}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Starving Hearts (Triangular Trade Trilogy, #1)', 'Price': '£13.99', 'Stock': 'I', 'Star': 2}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': "Shakespeare's Sonnets", 'Price': '£20.66', 'Stock': 'I', 'Star': 4}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Set Me Free', 'Price': '£17.46', 'Stock': 'I', 'Star': 5}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)", 'Price': '£52.29', 'Stock': 'I', 'Star': 5}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Rip it Up and Start Again', 'Price': '£35.02', 'Stock': 'I', 'Star': 5}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991', 'Price': '£57.25', 'Stock': 'I', 'Star': 3}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Olio', 'Price': '£23.88', 'Stock': 'I', 'Star': 1}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Mesaerion: The Best Science Fiction Stories 1800-1849', 'Price': '£37.59', 'Stock': 'I', 'Star': 1}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': 'Libertarianism for Beginners', 'Price': '£51.33', 'Stock': 'I', 'Star': 2}
+2020-10-31 23:48:19 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Titles': "It's Only the Himalayas", 'Price': '£45.17', 'Stock': 'I', 'Star': 2}
+2020-10-31 23:48:19 [scrapy] INFO: Closing spider (finished)
+2020-10-31 23:48:19 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 467,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 6050,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 1.517646,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 10, 31, 18, 18, 19, 661086),
+ 'item_scraped_count': 20,
+ 'log_count/DEBUG': 22,
+ 'log_count/INFO': 7,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2020, 10, 31, 18, 18, 18, 143440)}
+2020-10-31 23:48:19 [scrapy] INFO: Spider closed (finished)
